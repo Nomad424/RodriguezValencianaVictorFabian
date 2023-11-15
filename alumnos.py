@@ -1,3 +1,3 @@
 alumnos =[
-    {"Nombre": "Noe_Cardona", "Especialida": "Redes", "Matricula": 20045148}
+    {"Mensaje": "Lista de alumnos de UTC de TI"}
 ]
